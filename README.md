@@ -69,9 +69,9 @@ Predict single image: load from dataset, infer, and display actual-predicted lab
 
 ## PROGRAM
 
-### Name:  ROHITH R
+### Name:  Kamalesh y
 
-### Register Number:  212222230121
+### Register Number:  212223243001
 
 ```python
 import torch
